@@ -1,9 +1,3 @@
-Perfect 🔥 That updated **About section** sounds professional and well-balanced — it shows both your backend focus and full-stack versatility.
-
-Here’s your **final, polished, and recruiter-ready GitHub README**, fully integrated with your new “About Me” section and beautiful tech badges 👇
-
----
-
 ## 👋 Hi, I'm **Mustafa Khan**
 
 ### 💻 Full-Stack MERN Developer | B.Sc. IT Graduate
@@ -20,30 +14,30 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 
 #### 🚀 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge\&logo=javascript\&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge\&logo=tailwind-css\&logoColor=38B2AC)
 
 #### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=68A063)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge\&logo=express\&logoColor=white)
 
 #### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=4EA94B)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge\&logo=mongoose\&logoColor=800000)
 
 #### 🧰 Tools & Platforms
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=0078D7)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge\&logo=render\&logoColor=46E3B7)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
 
 ---
 
@@ -65,8 +59,14 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 ### 🧩 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaKhan&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhan&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaKhan&show_icons=true&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhan&layout=compact&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" height="165" />
 </p>
+
+---
+
+### 🖤 Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories — it motivates me to build more amazing things!
 
 ---
