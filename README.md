@@ -57,12 +57,12 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 
 ---
 
-### 🧩 GitHub Insights
 
-<p align="center">
+
+<!-- <p align="center"> ### 🧩 GitHub Insights
   <img src="https://github-readme-stats.vercel.app/api?username=Mustafa1192&show_icons=true&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa1192&layout=compact&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" height="165" />
-</p>
+</p> -->
 
 ---
 
