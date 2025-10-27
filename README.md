@@ -18,6 +18,7 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge\&logo=tailwind-css\&logoColor=38B2AC)
 
 #### ⚙️ Backend
@@ -43,10 +44,10 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 
 ### 📫 Connect With Me
 
-💼 **Portfolio:** [your-portfolio-link-here](#)
-📧 **Email:** [mustafakhan@example.com](mailto:mustafakhan@example.com)
-🔗 **LinkedIn:** [linkedin.com/in/mustafakhan](#)
-🐙 **GitHub:** [github.com/MustafaKhan](#)
+💼 **Portfolio:** (https://musk-portfolio.netlify.app/) <br>
+📧 **Email:** (mailto:mustafakhan31499@gmail.com) <br>
+🔗 **LinkedIn:** (https://www.linkedin.com/in/mustafakhan-dev/) <br>
+📞 **Contact:** +91 8879873774
 
 ---
 
@@ -59,8 +60,8 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 ### 🧩 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaKhan&show_icons=true&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhan&layout=compact&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa1192&show_icons=true&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa1192&layout=compact&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" height="165" />
 </p>
 
 ---
