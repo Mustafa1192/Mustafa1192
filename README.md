@@ -44,9 +44,9 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 
 ### 📫 Connect With Me
 
-💼 **Portfolio:** (https://musk-portfolio.netlify.app/) <br>
-📧 **Email:** (mailto:mustafakhan31499@gmail.com) <br>
-🔗 **LinkedIn:** (https://www.linkedin.com/in/mustafakhan-dev/) <br>
+💼 **Portfolio:** https://musk-portfolio.netlify.app/ <br>
+📧 **Email:** mailto:mustafakhan31499@gmail.com <br>
+🔗 **LinkedIn:** https://www.linkedin.com/in/mustafakhan-dev/ <br>
 📞 **Contact:** +91 8879873774
 
 ---
