@@ -42,12 +42,12 @@ I enjoy optimizing backend efficiency, deploying scalable solutions, and explori
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
-💼 **Portfolio:** [Mustafa Khan's Portfolio](https://mustafakhan-portfolio.netlify.app/) <br>
-📧 **Email:** mailto:mustafakhan31499@gmail.com <br>
-🔗 **LinkedIn:** https://www.linkedin.com/in/mustafakhan-dev/ <br>
-📞 **Contact:** +91 8879873774
+💼 **Portfolio:** [Explore my portfolio](https://mustafakhan-portfolio.netlify.app/)  
+📧 **Email:** [Drop me an email](mailto:mustafakhan31499@gmail.com)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mustafakhan-dev/)  
+📞 **Contact:** [+91 88798 73774](tel:+918879873774)
 
 ---
 
